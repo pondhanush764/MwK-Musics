@@ -70,10 +70,10 @@ async def start(client, message):
         [
         InlineKeyboardButton("❔ How To Use Me ❔", callback_data="help"),
                 ],[
-                InlineKeyboardButton('📢 Updates', url='https://t.me/mwklinks'),
-                InlineKeyboardButton('💬 Support', url='https://t.me/redbullfed')
+                InlineKeyboardButton('😋Chat group', url='https://t.me/chatting_club420'),
+                InlineKeyboardButton('Our grp manage bot🥰', url='https://t.me/kittyprobot')
                 ],[
-                InlineKeyboardButton('🤖 Developer', url='https://t.me/shamilnelli'),
+                InlineKeyboardButton('🤖 Developer', url='https://t.me/THE_BOSS_OF_TELEGRAM'),
                 InlineKeyboardButton('🎧 Songs', url='https://t.me/mwksongs')
                 ],[
                 InlineKeyboardButton('📜 Source Code 📜', url='https://github.com/shamilhabeebnelli/mwk-musics'),
